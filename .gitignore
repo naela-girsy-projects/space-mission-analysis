@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.pyc
+.env
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Large data files
+*.csv
+
+# Model files
+notebooks/output/models/*
