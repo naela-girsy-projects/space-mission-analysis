@@ -1,0 +1,6 @@
+,0
+Model_Type,Gradient Boosting
+Training_Date,2025-05-12
+Features,"['Launch_Year', 'Launch_Month', 'Launch_Day', 'Launch_DayOfWeek', 'Agency_Experience', 'Agency_Prior_Success_Rate', 'Agency', 'Rocket']"
+Test_AUC,0.681879226145755
+Test_Accuracy,0.9044526901669759
